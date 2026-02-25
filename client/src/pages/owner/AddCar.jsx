@@ -106,6 +106,11 @@ const AddCar = () => {
               <option value="Sedan">Sedan</option>
               <option value="SUV">SUV</option>
               <option value="Van">Van</option>
+              <option value="AutoRikshaw">AutoRikshaw</option>
+              <option value="Truck">Truck</option>
+              <option value="Motorcycle">Motorcycle</option>
+              <option value="Bus">Bus</option>
+              <option value="Scooty">Scooty</option>
             </select>
           </div>
         </div>
