@@ -1,0 +1,10 @@
+<svg width="190" height="36" viewBox="0 0 190 36" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Car icon -->
+  <circle cx="18" cy="18" r="16" fill="white"/>
+  <path d="M10 20h16M12 16l2-4h8l2 4M11 20a2 2 0 104 0M21 20a2 2 0 104 0" stroke="#4863A0" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <rect x="11" y="16" width="14" height="5" rx="1" fill="none" stroke="#4863A0" stroke-width="1.5"/>
+  <!-- DriveEase text -->
+  <text x="42" y="25" font-family="Outfit, sans-serif" font-size="22" font-weight="700" fill="white">
+    <tspan fill="white">Drive</tspan><tspan fill="white" font-weight="400">Ease</tspan>
+  </text>
+</svg>
