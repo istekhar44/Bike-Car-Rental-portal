@@ -7,11 +7,11 @@ const VehicleCategories = () => {
     const navigate = useNavigate()
 
     const categories = [
-        { name: 'Cars', icon: 'https://cdn-icons-png.flaticon.com/128/3774/3774278.png', desc: 'Sedans, SUVs, Hatchbacks & more', bg: 'from-blue-50 to-blue-100', border: 'hover:border-blue-400' },
-        { name: 'Bikes', icon: 'https://cdn-icons-png.flaticon.com/128/2972/2972185.png', desc: 'Sport bikes, Cruisers & Touring', bg: 'from-red-50 to-red-100', border: 'hover:border-red-400' },
+        { name: 'Cars', icon: 'https://upload.wikimedia.org/wikipedia/commons/7/7e/Car_icon_transparent.png?20161202141638', desc: 'Sedans, SUVs, Hatchbacks & more', bg: 'from-blue-50 to-blue-100', border: 'hover:border-blue-400' },
+        { name: 'Bikes', icon: 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Enduro_sign.png/640px-Enduro_sign.png', desc: 'Sport bikes, Cruisers & Touring', bg: 'from-red-50 to-red-100', border: 'hover:border-red-400' },
         { name: 'Scooters', icon: 'https://cdn-icons-png.flaticon.com/128/9830/9830523.png', desc: 'Perfect for city commuting', bg: 'from-green-50 to-green-100', border: 'hover:border-green-400' },
         { name: 'Trucks', icon: 'https://cdn-icons-png.flaticon.com/128/3774/3774981.png', desc: 'Pickups & Heavy-duty trucks', bg: 'from-amber-50 to-amber-100', border: 'hover:border-amber-400' },
-        { name: 'Buses', icon: 'https://cdn-icons-png.flaticon.com/128/1819/1819547.png', desc: 'Mini buses & Coach rentals', bg: 'from-purple-50 to-purple-100', border: 'hover:border-purple-400' },
+        { name: 'Buses', icon: 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Indian_Election_Symbol_Bus.png/640px-Indian_Election_Symbol_Bus.png', desc: 'Mini buses & Coach rentals', bg: 'from-purple-50 to-purple-100', border: 'hover:border-purple-400' },
         { name: 'Vans', icon: 'https://cdn-icons-png.flaticon.com/128/2590/2590498.png', desc: 'Cargo vans & Passenger vans', bg: 'from-teal-50 to-teal-100', border: 'hover:border-teal-400' },
     ]
 
